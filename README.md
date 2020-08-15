@@ -39,4 +39,16 @@ module.exports = {
   },
 };
 ```
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>TypeScript Basics</title>
+  </head>
+  <body>
+    <div class="app"></div>
+    <script src="app.js"></script>
+  </body>
+</html>
+```
 6- yarn start
