@@ -39,6 +39,8 @@ module.exports = {
   },
 };
 ```
+index.html
+```
 <!doctype html>
 <html>
   <head>
