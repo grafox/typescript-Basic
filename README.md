@@ -39,4 +39,4 @@ module.exports = {
   },
 };
 ```
-yarn start
+6- yarn start
