@@ -1,7 +1,7 @@
 interface Pizza {
     name: string;
     sizes: string[];
-    getAvailableSizes(): void;
+    getAvailableSizes7(): void
   }
   
   let pizza4: Pizza
@@ -10,8 +10,8 @@ interface Pizza {
     return {
       name,
       sizes,
-      getAvailableSizes() {
-        return this.sizes;
+      getAvailableSizes7(){
+        return this.sizes
       },
     };
   }
